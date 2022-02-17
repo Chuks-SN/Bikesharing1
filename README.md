@@ -24,3 +24,6 @@ Looking at the useage for subscribers vs customers, male subcribers were the hig
 ## Summary
 
 The results are form the New York citibike data, it might not be the most ideal reflection of the situation in Des Moines. We will need to run a pilot bike sharing business in the city of interest to get more accurate analysis for the investors. 
+
+Kindly see below a link to the public tableau story
+https://public.tableau.com/views/CitibikeAnalysis_16450397483580/CitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
